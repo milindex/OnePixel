@@ -1,0 +1,7 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+# Disable hardware Keys
+qemu.hw.mainkeys 0
+#Enable Camera2API
+persist.camera.HAL3.enabled=1

@@ -1,0 +1,13 @@
+v2
+	- Personal Use Only
+	- Google Pixel Bootanimation
+	- Disabled HW Keys & Backlight 
+	- Enabled Software keys
+	- Android Q Emoji
+	- Products Sans Font
+	- CPL v10.5(Best) with Google Feeds
+	- Disable Camera & Screenshot Sound
+
+v1
+	-	Initial Release
+	- Android P Emoji
